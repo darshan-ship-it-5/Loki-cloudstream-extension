@@ -1,8 +1,8 @@
 {
-  "name": "Qobuz CloudStream",
-  "description": "Qobuz music streaming extension",
+  "name": "Loki repo",
+  "description": "Loki extension",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/darshan-ship-it-5/QobuzCloudStream/refs/heads/main/plugins.json"
+    "https://raw.githubusercontent.com/darshan-ship-it-5/Loki-cloudstream-extension/refs/heads/main/plugins.json"
   ]
 }
