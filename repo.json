@@ -1,0 +1,8 @@
+{
+  "name": "Qobuz CloudStream",
+  "description": "Qobuz music streaming extension",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/darshan-ship-it-5/QobuzCloudStream/refs/heads/main/plugins.json"
+  ]
+}

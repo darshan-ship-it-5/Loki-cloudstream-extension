@@ -1,0 +1,24 @@
+[
+  {
+    "name": "Qobuz",
+    "internalName": "QobuzProvider",
+    "description": "Qobuz music streaming",
+    "version": 1,
+    "apiVersion": 1,
+    "status": 1,
+    "language": "en",
+    "tvTypes": [
+      "Movie",
+      "Others",
+      "music",
+      "TvSeries"
+    ],
+    "url": "https://raw.githubusercontent.com/darshan-ship-it-5/QobuzCloudStream/refs/heads/builds/QobuzProvider.cs3",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=qobuz.com&sz=256",
+    "authors": [
+      "Darshan"
+    ],
+    "fileSize": 40999,
+    "fileHash": "sha256:0071a514e0f278afb296a450e413f33b6631ba74c218967f3ac7b2e0e935a534"
+  }
+]
