@@ -21,7 +21,7 @@
     ],
     "fileSize": 40999,
     "fileHash": "sha256:0071a514e0f278afb296a450e413f33b6631ba74c218967f3ac7b2e0e935a534"
-  }
+  },
   {
     "name": "Deezer",
     "internalName": "DeezerProvider",
